@@ -4,6 +4,8 @@ This is a simulator of *multiagent mass games*.
 ## Multiagent Mass Games [1,2]
 In multiagent mass games, agents achieve formations displaying *grayscale images* by distributed control. One potential application of mass games is entertainment, where we can observe agent formations displaying objects shown in pictures.
 
+![massgame2](https://user-images.githubusercontent.com/76646096/103174110-d0357c00-48a2-11eb-9a4c-739cc3fa57c7.jpg)
+
 ## Mass Game Simulator
 The mass game simulator (MGS) has been developed to overcome difficulties in implementing algorithms for simulating mass games. With the MGS, it is possible to simply simulate a mass game through mouse and keyboard operations without the need for expert knowledge or programming effort. The main features of the MGS are as follows:
 - Importing user-selected image files (.jpg and .bmp), 
