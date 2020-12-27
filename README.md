@@ -5,6 +5,8 @@ The mass game simulator (MGS) has been developed for an application of control t
 3) Displaying the simulation results as figures and animations, 
 4) Saving the simulation results as image and movie files.
 
+![capture](https://user-images.githubusercontent.com/76646096/103169930-68bc0400-4883-11eb-929e-eaf11f9a19e8.jpg)
+
 ## Install
 The MGS is provided as a MATLAB application installer file (MGS.mlappinstall). Download the file and install it into your computer with MATLAB.
 
