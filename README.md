@@ -2,7 +2,7 @@
 This is a simulator of *multi-agent mass games*.
 
 ## Multi-Agent Mass Games [1,2]
-In multiagent mass games, agents achieve formations displaying *grayscale images* by distributed control. One potential application of mass games is entertainment, where we can observe the interesting behavior of agents to represent objects and situations depicted in images.
+In multi-agent mass games, agents achieve formations displaying *grayscale images* by distributed control. One potential application of mass games is entertainment, where we can observe the interesting behavior of agents to represent objects and situations depicted in images.
 
 ![massgame2](https://user-images.githubusercontent.com/76646096/103174110-d0357c00-48a2-11eb-9a4c-739cc3fa57c7.jpg)
 
